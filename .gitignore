@@ -1,0 +1,8 @@
+.gradle/
+build/
+.superpowers/
+server/.gradle/
+server/.gradle-bootstrap/
+server/build/
+server/data/
+server/*.zip
